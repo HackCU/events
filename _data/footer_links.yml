@@ -1,8 +1,8 @@
 - name: HackCU
   url: https://hackcu.org
 - name: Startups2Students
-  url: http://startups2students.org
-- name: Mentors
-  url: https://mentors.hackcu.org/
+  url: https://startups2students.org
+- name: LHD
+  url: https://local.hackcu.org
 - name: Team
   url: https://team.hackcu.org

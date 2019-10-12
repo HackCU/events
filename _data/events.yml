@@ -1,26 +1,10 @@
 - name: Startups2Students Fall
   image-url: assets/img/startups2students.png
   line: A different kind of hiring event - Bridging the gap between students and local startups.
-  date: 2018-10-23 6:00 PM
-  end-date: 2018-10-23 8:00 PM
+  date: 2019-11-6 6:00 PM
+  end-date: 2019-11-6 8:00 PM
   location: Idea Forge
-  url: http://startups2students.org
-
-- name: Phase
-  image-url: assets/img/phase.png
-  line: Our first ever 15-hour hardware hackathon - Come to learn and build with hardware!
-  date: 2018-11-10 7:00 AM
-  end-date: 2018-11-11 2:30 AM
-  location: Idea Forge
-  url: https://phase.hackcu.org
-
-- name: Boulder Hacktoberfest
-  image-url: assets/img/hacktoberfest_2018.png
-  line: Learn about open source software development with professionals and win sweet prizes!
-  date: 2018-10-24 5:30 PM
-  end-date: 2018-10-24 8:00 PM
-  location: Galvanize Boulder
-  url: https://www.eventbrite.com/e/hacktoberfest-boulder-tickets-51660907164
+  url: https://startups2students.org
 
 # - name: "Vim: A robust text editor"
 #   image-url: assets/img/vim-event.jpg
@@ -33,8 +17,8 @@
 - name: Local Hack Day
   image-url: assets/img/flatirons.jpg
   line: Our annual 12 hour hack day - Bringing together the local hacker community to learn and build new things.
-  date: 2018-12-1 8:00 AM
-  end-date: 2018-12-1 9:15 PM
+  date: 2019-12-7 8:00 AM
+  end-date: 2019-12-7 9:15 PM
   location: Idea Forge
   url: https://local.hackcu.org
 
