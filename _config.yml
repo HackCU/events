@@ -3,7 +3,7 @@
 # Site variables
 name: HackCU Events
 og: assets/img/og.png
-logo: /assets/img/logo.png
+logo: /assets/img/hackcu6_logo.png
 original_repo: https://github.com/hackcu/events
 description: Find all of HackCU's events in one place.
 ga: UA-109088240-1
