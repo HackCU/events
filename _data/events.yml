@@ -43,13 +43,13 @@
 #   line: "Workshop includes an intro to blockchain technology and an interactive session on smart contracts."
 #   url: https://www.facebook.com/events/1860524370627531/
 
-# - name: HackCU IV
-#   date: 2018-02-24 8:00 AM
-#   end-date: 2018-02-25 5:00 PM
-#   location: SEEC Building (East Campus)
-#   image-url: assets/img/hackcu4.png
-#   line: Join us and 600 other hackers for 24 hours of hacking, learning and building!
-#   url: https://hackcu.org
+- name: HackCU VI
+  date: 2020-02-22 8:00 AM
+  end-date: 2020-02-23 4:00 PM
+  location: JSCBB (East Campus)
+  image-url: assets/img/bliss.jpg
+  line: Join us and 400 other hackers for 24 hours of hacking, learning and building!
+  url: https://hackcu.org
 
 # - name: Startups2Students Spring
 #   image-url: assets/img/startups2students.png
